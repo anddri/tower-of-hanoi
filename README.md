@@ -7,9 +7,9 @@ Just run the script, and use as commandline argument the number of disks you hav
 
 So for exmple if you play Tower of Hanoi with 4 disks, you write
 
-´´´
+```
 python tower_of_hanoid.py 4
-´´´
+```
 
 ## Just for the fun of it
 
