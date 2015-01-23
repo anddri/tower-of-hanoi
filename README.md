@@ -23,7 +23,7 @@ I will print the solution in the in format (example using 3 disks)
 1 -> 3
 ```
 
-1, 2, and 3 is indicating the pegs you use to store the disks; 1 being the peg to the left, 2 the peg in the middle, and 3 the peg to the right. This script assumes you play *Tower of Hanoi* using 3 pegs (It is possible to play it otherwise?)
+1, 2, and 3 is indicating the pegs you use to store the disks; 1 being the peg to the left, 2 the peg in the middle, and 3 the peg to the right. This script assumes you play *Tower of Hanoi* using 3 pegs.
 
 ## Just for the fun of it
 
